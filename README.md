@@ -1,3 +1,1 @@
 # ArithmeticCompressor
-# ArithmeticCompressor
-# ArithmeticCompressor
