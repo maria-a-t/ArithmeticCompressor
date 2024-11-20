@@ -1,0 +1,8 @@
+method,file,original_size,compressed_size,conclusion
+ari,test_1,13,22,OK
+ari,test_2,13095,7932,OK
+ari,test_3,226304,186349,WA2
+ari,test_4,0,5,OK
+ari,test_5,1000000,432492,WA2
+ari,test_6,1000000,10,OK
+ari,test_7,1000000,482434,WA2

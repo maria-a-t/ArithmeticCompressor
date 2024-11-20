@@ -1,0 +1,4 @@
+/Users/maria/MSU/Compression/project/build/CMakeFiles/utils.dir
+/Users/maria/MSU/Compression/project/build/CMakeFiles/compress.dir
+/Users/maria/MSU/Compression/project/build/CMakeFiles/edit_cache.dir
+/Users/maria/MSU/Compression/project/build/CMakeFiles/rebuild_cache.dir
